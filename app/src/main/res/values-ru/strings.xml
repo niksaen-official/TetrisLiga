@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лига Ставок</string>
+    <string name="classic_tetris_from_league_of_bet">Классический тетрис от Лиги Ставок</string>
+    <string name="tetris_betting_league">Тетрис Лига\nСтавок</string>
+    <string name="sound">Звуки</string>
+    <string name="profile">Профиль</string>
+    <string name="privacy_policy">Политика</string>
+    <string name="start_game">Начать игру</string>
+    <string name="_continue">Продолжить</string>
+    <string name="menu_title">Меню Лиги Ставок</string>
+    <string name="off">Выкл.</string>
+    <string name="on">Вкл.</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="points">Очки:</string>
+    <string name="end_game">Конец игры</string>
+    <string name="play_again">Играть ещё раз</string>
+    <string name="menu">Меню</string>
+    <string name="loading">Загрузка</string>
+    <string name="get_permission">Получить разрешение</string>
+    <string name="permission_text">Приложение может отправлять уведомления, для того чтобы их включить перейдите в настройки</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="cancel">Отмена</string>
+</resources>

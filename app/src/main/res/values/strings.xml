@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">League of Bet</string>
+    <string name="classic_tetris_from_league_of_bet">Classic Tetris from League of Bet</string>
+    <string name="tetris_betting_league">Tetris Betting\nLeague</string>
+    <string name="sound">Sounds</string>
+    <string name="profile">Profile</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="start_game">Start game</string>
+    <string name="_continue">Continue</string>
+    <string name="menu_title">Menu League of Bet</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="enter_name">Enter name</string>
+    <string name="points">Points:</string>
+    <string name="end_game">End game</string>
+    <string name="play_again">Play again</string>
+    <string name="menu">Menu</string>
+    <string name="loading">Loading</string>
+    <string name="get_permission">Get permission</string>
+    <string name="permission_text">The application can send notifications, to enable them go to settings</string>
+    <string name="open_settings">Open settings</string>
+    <string name="cancel">Cancel</string>
+</resources>

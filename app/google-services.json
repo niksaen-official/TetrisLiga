@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25026556804",
+    "project_id": "ligatet-7e247",
+    "storage_bucket": "ligatet-7e247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25026556804:android:f9dbf5cdf89c9d054e23d1",
+        "android_client_info": {
+          "package_name": "com.ligastavok.tetliga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbG9SPeOWpfPhJqm9KfrirvEBFE7ptWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25026556804:android:7815ee1a88a19a3d4e23d1",
+        "android_client_info": {
+          "package_name": "com.ligastavok.tetlliga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbG9SPeOWpfPhJqm9KfrirvEBFE7ptWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
